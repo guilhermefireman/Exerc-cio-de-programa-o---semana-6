@@ -139,7 +139,7 @@ b) A asserção é verdadeira e a razão é falsa.
  9) O seguinte código deve retornar a soma do dobro dos números de um array, mas contém erros. Identifique os problema e corrija o código para que funcione corretamente. Adicione comentários ao código explicado sua solução para cada problema.
 
 
-// codigo corrigido 
+// codigo corrigido (resposta)
 function somaArray(numeros) {
     // Inicializa a variável soma como 0. A gente vai usar ela pra acumular o resultado final
     let soma = 0;
@@ -164,7 +164,7 @@ Uma classe Produto com atributos nome e preco, e um método calcularDesconto() q
 Uma classe Livro que herda de Produto e modifica o método calcularDesconto(), aplicando um desconto de 20% no preço dos livros.
 Explique como funciona a herança nesse contexto e como você implementaria a modificação do método na classe Livro.
 
-//codigo:
+//codigo: 
 // Classe Produto
 class Produto {
   // Construtor da classe Produto, que recebe o nome e o preço
